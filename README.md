@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # login
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# sns-ex
+>>>>>>> 9efa74174b300a8038f4fc7ef261ee0934869bf0
